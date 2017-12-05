@@ -1,6 +1,7 @@
 # Compact Bilinear Pooling
 
 This repository contains the tensorflow implementation of Compact Bilinear Pooling.
+<b>(Update 2017.12.5)</b>: Updating the compilation script and the testing script to adapt the Tensorflow 1.4.0 version.
 
 ## Usage
 
